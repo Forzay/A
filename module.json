@@ -1,6 +1,6 @@
 {
-  "id": "FoundryVTT-AdditionalDamageTypes",
-  "title": "Additional damage types",
+  "id":"AdditionalDamageTypes",
+  "title":"Additional damage types",
    "description": "Adds additional custom damage types",
   "authors": [
     {
