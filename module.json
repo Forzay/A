@@ -1,3 +1,14 @@
 {
-  "id": "A",
+  "id": "foundryvtt-additional-damage-types",
+  "title": "Additional damage types",
+   "description": "Adds additional custom damage types",
+  "authors": [
+    {
+    "name": "Forzay"
+    }
+  ]
+    "version": "1.0.0",
+  "esmodules": [
+    "DamageTypes.js"
+  ]
 }
