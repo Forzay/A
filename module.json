@@ -1,0 +1,19 @@
+{
+  "description": "Adds custom damage types",
+  "version": "1.0.0",
+  "id": "DamageTypes",
+  "authors": [
+    {
+      "name": "Forzay"
+    }
+  ],
+  "title": "Custom Damage Types",
+  "library": true,
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12.329"
+  },
+  "esmodules": [
+    "DamageTypes.js"
+  ]
+}
