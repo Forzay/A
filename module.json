@@ -1,11 +1,3 @@
 {
-  "id":"AdditionalDamageTypes",
-  "title":"Additional damage types",
-   "description": "Adds additional custom damage types",
-  "authors": [
-    {
-    "name": "Forzay"
-    }
-  ]
-    "version": "1.0.0",
+  "id": "AdditionalDamageTypes",
 }
