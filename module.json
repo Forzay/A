@@ -9,6 +9,6 @@
   ]
     "version": "1.0.0",
   "esmodules": [
-    "DamageTypes.js"
+    "damagetypes.js"
   ]
 }
