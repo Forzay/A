@@ -1,12 +1,7 @@
 Hooks.once('setup', () => {
 
 console.log('P5e | Initializing');
-
-// already standard damage types
-//CONFIG.DND5E.damageTypes['poison'] = 'P5EEXTRA.DamagePoison';
-//CONFIG.DND5E.damageTypes['fire'] = 'P5EEXTRA.DamageFire';
-//CONFIG.DND5E.damageTypes['psychic'] = 'P5EEXTRA.DamagePsychic';
-
+  
 CONFIG.DND5E.damageTypes['Edemic'] = 'P5EEXTRA.DamageEdemic';
 CONFIG.DND5E.damageTypes['True Dark'] = 'P5EEXTRA.DamageTDark';
 CONFIG.DND5E.damageTypes['Cursed'] = 'P5EEXTRA.DamageCursed';
