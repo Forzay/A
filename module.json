@@ -1,18 +1,13 @@
 {
-  "description": "Adds custom damage types",
-  "version": "1.0.0",
-  "id": "DamageTypes",
+  "id": "FoundryVTT-AdditionalDamageTypes",
+  "title": "Additional damage types",
+   "description": "Adds additional custom damage types",
   "authors": [
     {
-      "name": "Forzay"
+    "name": "Forzay"
     }
-  ],
-  "title": "Custom Damage Types",
-  "library": true,
-  "compatibility": {
-    "minimum": "10",
-    "verified": "12.329"
-  },
+  ]
+    "version": "1.0.0",
   "esmodules": [
     "DamageTypes.js"
   ]
